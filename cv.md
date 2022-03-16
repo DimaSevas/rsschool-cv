@@ -1,4 +1,4 @@
-# Hello
+# Hello!
 ## My name
 ### Dmitry  Savchenko
 --------------------
@@ -11,14 +11,16 @@
 ### I'm not an experienced web developer yet and I don't understand a lot about this business, but I'm trying to absorb knowledge more and more. My dream is to dive into it with my head and prove that I can achieve everything and come to the goal.
 --------------------
 ## My Skill
-# Html&Css
-# Js Basic
+### Html&Css
+### Js Basic
 --------------------
 ## Code
-function addition = (a, b) => {
-  const result = a + b;
-  return result;
-};
+### function addition = (a, b) => {const result = a + b; return result;};
+--------------------
+## My projects
+### Portfolio: https://dimasevas-portfolio-3.netlify.app
+### Eco-sound: https://dimasevas-eco-sounds.netlify.app
+### Memory-game: https://dimasevas-memory-game.netlify.app
 --------------------
 ## Education
 ### Medium special, carpenter
