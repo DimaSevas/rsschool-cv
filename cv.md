@@ -14,7 +14,17 @@
 # Html&Css
 # Js Basic
 --------------------
-
+## CODE 
+# function addition = (a, b) =>{
+# const result = a + b;
+# return result; };
 --------------------
-
+## My projects
+# https://dimasevas-portfolio-3.netlify.app-Portfolio
+# https://dimasevas-eco-sounds.netlify.app-Eco-sound
+# https://dimasevas-memory-game.netlify.app-Memory-game
 --------------------
+## Languages
+# English A-1
+# Russian
+# Ukrainian
